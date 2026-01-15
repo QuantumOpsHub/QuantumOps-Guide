@@ -206,30 +206,14 @@
 
 > **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
 
-|                                              🔹 **Project**                                             |                                                                                                                            📜 **Description**                                                                                                                            |                                                                  🛠️ **Tools & Languages**                                                                  | 🚀 **Status** |
-| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| [azure-zero-trust-public-to-private](https://github.com/QuestOpsHub/azure-zero-trust-public-to-private) | This repository provides end-to-end reference implementations for deploying Azure resources with public endpoint access, transitioning them to private connectivity using Zero Trust principles, and validating application functionality through comprehensive testing. | Cloud: Azure · IaC: Terraform · Networking: VNet, Private Endpoint, Private DNS · Security: Zero Trust, Managed Identity · Testing: Azure-native validation |       🚧      |
-
++
 
 ---
 ## 🌐 𝑨𝒛𝒖𝒓𝒆 𝑻𝒆𝒓𝒓𝒂𝒇𝒐𝒓𝒎 𝑴𝒐𝒅𝒖𝒍𝒆𝒔
 
 > **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
 
-|           **Category**           |                                                   **Repository**                                                    |                                          **Description**                                          | **Status** |
-|:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:----------:|
-|            *Compute*             |           [terraform-azurerm-linux-webapp](https://github.com/QuestOpsHub/terraform-azurerm-linux-webapp)           |   Terraform module to create a Linux Web App along with a deployment slot and management lock.    |     🚧     |
-| *Identity and Access Management* |        [terraform-azurerm-role-assignment](https://github.com/QuestOpsHub/terraform-azurerm-role-assignment)        |         Terraform module to assign a specified Role to a given Principal (User or Group).         |     ✅     |
-| *Identity and Access Management* | [terraform-azurerm-user-assigned-identity](https://github.com/QuestOpsHub/terraform-azurerm-user-assigned-identity) |                   Terraform module to create a User Assigned Managed Identity.                    |     ✅     |
-|           *Containers*           |     [terraform-azurerm-kubernetes-cluster](https://github.com/QuestOpsHub/terraform-azurerm-kubernetes-cluster)     |                     Terraform module to create a Managed Kubernetes Cluster.                      |     ✅     |
-|           *Containers*           |           [terraform-kubernetes-namespace](https://github.com/QuestOpsHub/terraform-kubernetes-namespace)           |                         Terraform module to create Kubernetes Namespace.                          |     ✅     |
-|           *Containers*           |                   [terraform-helm-release](https://github.com/QuestOpsHub/terraform-helm-release)                   |               A Release is an instance of a chart running in a Kubernetes cluster.                |     ✅     |
-|           *Containers*           |     [terraform-azurerm-container-registry](https://github.com/QuestOpsHub/terraform-azurerm-container-registry)     |                         Terraform module to create a Container Registry.                          |     ✅     |
-|           *Networking*           |        [terraform-azurerm-virtual-network](https://github.com/QuestOpsHub/terraform-azurerm-virtual-network)        |                     Terraform module to create a Virtual Network and Subnets.                     |     ✅     |
-|            *Security*            |              [terraform-azurerm-key-vault](https://github.com/QuestOpsHub/terraform-azurerm-key-vault)              |                              Terraform module to create a Key Vault.                              |     ✅     |
-|   *Management and Governance*    |         [terraform-azurerm-resource-group](https://github.com/QuestOpsHub/terraform-azurerm-resource-group)         |                        Terraform module to create an Azure Resource Group.                        |     ✅     |
-|         *Miscellaneous*          |          [terraform-azurerm-random-string](https://github.com/QuestOpsHub/terraform-azurerm-random-string)          | Terraform module to generate secure random alphanumeric strings with optional special characters. |     ✅     |
-|          *Storage*               |           [terraform-azurerm-storage-account](https://github.com/QuestOpsHub/terraform-azurerm-storage-account)                                                                                                          |                 Terraform module to create an Azure Storage Account.                                                                                  |  🚧          |
+
 
 ---
 ## 🤝 𝑯𝒐𝒘 𝒕𝒐 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆
