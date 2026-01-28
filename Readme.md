@@ -1,4 +1,4 @@
-# Hey Everyone 👋, I'm Veera Bhadra Mangunuru
+# Hey Everyone 👋, I'm Ganesh
 
 ## 📚 Table of Contents
 
